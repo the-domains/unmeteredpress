@@ -4,14 +4,21 @@
         <description><![CDATA[UNMETERED.Press]]></description>
         <link>https://thegrid.ai/unmeteredpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 16:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 16:55:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unmeteredpress/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DuckDuckGo]]></title>
             <description><![CDATA[<article><h1>DuckDuckGo</h1><p>The search engine that doesn't track you. A superior search experience with smarter answers, less clutter and real privacy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38933255e0de58e01c0aee854bb382ce/noop.png?input=https%3A%2F%2Fduckduckgo.com%2Fassets%2Ficons%2Fmeta%2FDDG-icon_256x256.png"></article>]]></description>
             <link>http://www.duckduckgo.com</link>
             <guid isPermaLink="false">ca382f24-8638-4bed-99f3-29fbfac5bf5c</guid>
-            <pubDate>Tue, 28 Jun 2016 16:50:37 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2016 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is BDS? - Boycott, Divestment and Sanctions]]></title>
+            <description><![CDATA[<article><h1>What is BDS? - Boycott, Divestment and Sanctions</h1><p>JVP endorses the call from Palestinian civil society for Boycott, Divestment, and Sanctions (BDS) as part of our work for freedom, justice and equality.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/116bc22115c6c4ef097cca38df36a06b/croprotate.jpg?cropheight=545&cropwidth=1920&degrees=0&input=https%3A%2F%2Fjewishvoiceforpeace.org%2Fwp-content%2Fuploads%2F2015%2F05%2Ftitle-another-jew-supporting-divestment.jpg&x=0&y=0"></article>]]></description>
+            <link>https://jewishvoiceforpeace.org/boycott-divestment-and-sanctions/jvp-supports-the-bds-movement/</link>
+            <guid isPermaLink="false">42214ce0-3d19-403e-b4d2-5f6954a41116</guid>
+            <pubDate>Tue, 28 Jun 2016 16:55:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's in store for YOUR digital future?]]></title>
@@ -26,20 +33,6 @@
             <link>http://www.openmedia.ca</link>
             <guid isPermaLink="false">f78395fd-c030-4e14-aed6-38fc4591a06f</guid>
             <pubDate>Tue, 28 Jun 2016 16:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finlandia Caviar Shop and Restaurant, Helsinki, Finland ]]></title>
-            <description><![CDATA[<article><h1>Finlandia Caviar Shop and Restaurant, Helsinki, Finland </h1><p>In designing a space that would be devoted primarily to the consumption of caviar, Helsinki-based designer Joanna Laajisto was careful to avoid clichés of outré parties, fur coats and blinding bling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c8437362b3171b8de06740c000ce5c4fbf34d9d.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/travel/finland/helsinki/restaurants/finlandia-caviar-shop-and-restaurant</link>
-            <guid isPermaLink="false">db3c0922-0552-4b2b-a972-d0d3118e6ab1</guid>
-            <pubDate>Tue, 28 Jun 2016 16:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jet Engine Espresso Machines : veloce espresso]]></title>
-            <description><![CDATA[<article><h1>Jet Engine Espresso Machines : veloce espresso</h1><p>veloce espresso - Designer and engineer Paolo Mastrogiuseppe spent a great deal of his career creating innovations that look like Formula 1 cars but his latest inven...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa68e92ee8ab4642c924f9f480741887daf0dc6.jpg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/veloce-espresso</link>
-            <guid isPermaLink="false">cbe648cd-25ea-430e-b025-f06a8f8bfd7d</guid>
-            <pubDate>Tue, 28 Jun 2016 16:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
