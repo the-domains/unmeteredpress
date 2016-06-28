@@ -13,10 +13,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.duckduckgo.com'
 title: DuckDuckGo
-datePublished: '2016-06-28T16:50:37.901Z'
-dateModified: '2016-06-28T16:50:33.829Z'
-starred: false
+datePublished: '2016-06-28T16:50:57.541Z'
+dateModified: '2016-06-28T16:50:57.131Z'
 sourcePath: _posts/2016-06-28-duckduckgo.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
