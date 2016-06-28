@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://connectedfuture.org/'
 title: What's in store for YOUR digital future?
-datePublished: '2016-06-28T16:48:40.297Z'
-dateModified: '2016-06-28T16:48:34.584Z'
+datePublished: '2016-06-28T16:55:47.336Z'
+dateModified: '2016-06-28T16:49:18.780Z'
 starred: false
 sourcePath: _posts/2016-06-28-whats-in-store-for-your-digital-future.md
 inFeed: true
