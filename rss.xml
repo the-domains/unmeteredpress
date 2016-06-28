@@ -4,11 +4,11 @@
         <description><![CDATA[UNMETERED.Press]]></description>
         <link>https://thegrid.ai/unmeteredpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 16:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 16:50:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unmeteredpress/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DuckDuckGo]]></title>
-            <description><![CDATA[<article><h1>DuckDuckGo</h1><p>The search engine that doesn't track you. A superior search experience with smarter answers, less clutter and real privacy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38933255e0de58e01c0aee854bb382ce/noop.png?input=https%3A%2F%2Fduckduckgo.com%2Fassets%2Ficons%2Fmeta%2FDDG-icon_256x256.png"></article>]]></description>
+            <description><![CDATA[<article><h1>DuckDuckGo</h1><p>The search engine that doesn't track you. A superior search experience with smarter answers, less clutter and real privacy.</p><img src="https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png"></article>]]></description>
             <link>http://www.duckduckgo.com</link>
             <guid isPermaLink="false">ca382f24-8638-4bed-99f3-29fbfac5bf5c</guid>
             <pubDate>Tue, 28 Jun 2016 16:50:37 GMT</pubDate>
@@ -26,6 +26,27 @@
             <link>http://www.openmedia.ca</link>
             <guid isPermaLink="false">f78395fd-c030-4e14-aed6-38fc4591a06f</guid>
             <pubDate>Tue, 28 Jun 2016 16:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finlandia Caviar Shop and Restaurant, Helsinki, Finland ]]></title>
+            <description><![CDATA[<article><h1>Finlandia Caviar Shop and Restaurant, Helsinki, Finland </h1><p>In designing a space that would be devoted primarily to the consumption of caviar, Helsinki-based designer Joanna Laajisto was careful to avoid clichés of outré parties, fur coats and blinding bling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c8437362b3171b8de06740c000ce5c4fbf34d9d.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/travel/finland/helsinki/restaurants/finlandia-caviar-shop-and-restaurant</link>
+            <guid isPermaLink="false">db3c0922-0552-4b2b-a972-d0d3118e6ab1</guid>
+            <pubDate>Tue, 28 Jun 2016 16:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jet Engine Espresso Machines : veloce espresso]]></title>
+            <description><![CDATA[<article><h1>Jet Engine Espresso Machines : veloce espresso</h1><p>veloce espresso - Designer and engineer Paolo Mastrogiuseppe spent a great deal of his career creating innovations that look like Formula 1 cars but his latest inven...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa68e92ee8ab4642c924f9f480741887daf0dc6.jpg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/veloce-espresso</link>
+            <guid isPermaLink="false">cbe648cd-25ea-430e-b025-f06a8f8bfd7d</guid>
+            <pubDate>Tue, 28 Jun 2016 16:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drink to Dublin: Jameson enlist artist James Earley to design new label.]]></title>
+            <description><![CDATA[<article><h1>Drink to Dublin: Jameson enlist artist James Earley to design new label.</h1><p>Any visitor to Dublin's fair city will quickly sense the iconic presence of Jameson whiskey, which is woven into the fabric of life in Ireland's capital. The brand began producing whiskey in Dublin in 1780, and has always been closely linked with the city's rich cultural scene, championing its music, literature, and art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16455e4742acf25a3370643f60034b3fa72e36d7.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/drink-to-dublin-jameson-enlist-james-earley-to-design-their-new-label</link>
+            <guid isPermaLink="false">ca3c3410-f956-415b-987e-b548a1698d4d</guid>
+            <pubDate>Tue, 28 Jun 2016 16:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
