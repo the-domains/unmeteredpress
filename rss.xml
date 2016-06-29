@@ -4,7 +4,7 @@
         <description><![CDATA[UNMETERED.Press]]></description>
         <link>https://thegrid.ai/unmeteredpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 03:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 03:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unmeteredpress/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DuckDuckGo]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.duckduckgo.com</link>
             <guid isPermaLink="false">ca382f24-8638-4bed-99f3-29fbfac5bf5c</guid>
             <pubDate>Tue, 28 Jun 2016 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banking and Monetary Slavery of the Status-Quo System]]></title>
+            <description><![CDATA[<article><h1>Banking and Monetary Slavery of the Status-Quo System</h1><p>The current system of Debt-Based Currency is designed to do one thing - Enslave. Money is not transferred from one person, who lends, to a borrower, it is Made Up from Nothing - then the borrower is expected to pay back this imaginary money with Real Hard Work and risk their Real Assets.</p></article>]]></description>
+            <link>http://www.humansandresources.org/node/50</link>
+            <guid isPermaLink="false">d27141e1-cd1e-430d-b695-23fec982e9b4</guid>
+            <pubDate>Wed, 29 Jun 2016 03:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coverage Area / Communities by UNMETERED.IO]]></title>
@@ -68,13 +75,6 @@
             <link>http://bdsmovement.net/</link>
             <guid isPermaLink="false">bf329e5e-3bc5-4bbd-97d4-ab2fc8e38ae0</guid>
             <pubDate>Tue, 28 Jun 2016 16:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's in store for YOUR digital future?]]></title>
-            <description><![CDATA[<article><h1>What's in store for YOUR digital future?</h1><p>300,000+ contributors, 2 years of collaboration, 3 key recommendations. Check out Our Digital Future: a crowdsourced report on sharing and collaborating in the 21st century.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15e69c46fc3c1742f5740d45da9ce553/noop.jpg?input=https%3A%2F%2Fconnectedfuture.org%2Fsites%2Fdefault%2Ffiles%2FFER_og.jpg"></article>]]></description>
-            <link>https://connectedfuture.org/</link>
-            <guid isPermaLink="false">0fdb1c7e-fa8b-4992-88ac-fc7baeee4565</guid>
-            <pubDate>Tue, 28 Jun 2016 16:55:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
