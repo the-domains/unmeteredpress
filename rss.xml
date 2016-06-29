@@ -4,7 +4,7 @@
         <description><![CDATA[UNMETERED.Press]]></description>
         <link>https://thegrid.ai/unmeteredpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 03:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 03:29:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unmeteredpress/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DuckDuckGo]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 28 Jun 2016 16:50:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coverage Area / Communities by UNMETERED.IO]]></title>
+            <description><![CDATA[<article><h1>Coverage Area / Communities by UNMETERED.IO</h1><p>UNMETERED.IO : unwavering commitment to premium service quality!</p></article>]]></description>
+            <link>http://unmetered.online/communities</link>
+            <guid isPermaLink="false">e6f75646-4af4-4e96-8e92-6332b4e422cf</guid>
+            <pubDate>Wed, 29 Jun 2016 03:29:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UnmeteredCable by UNMETERED.IO]]></title>
-            <description><![CDATA[<article><h1>UnmeteredCable by UNMETERED.IO</h1><p>UNMETERED.IO ClearingHouse WebProperty - cable</p><img src="http://media.unmetered.io/content/characters/wheely.png"></article>]]></description>
+            <description><![CDATA[<article><h1>UnmeteredCable by UNMETERED.IO</h1><p>UNMETERED.IO ClearingHouse WebProperty - cable</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51f916caf8a2b0328a2187b1a2e85d37/noop.png?input=http%3A%2F%2Fmedia.unmetered.io%2Fcontent%2Fcharacters%2Fwheely.png"></article>]]></description>
             <link>http://www.unmeteredcable.com</link>
             <guid isPermaLink="false">d800571a-8b79-4d8e-9513-4621c408f71f</guid>
             <pubDate>Wed, 29 Jun 2016 03:28:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://connectedfuture.org/</link>
             <guid isPermaLink="false">0fdb1c7e-fa8b-4992-88ac-fc7baeee4565</guid>
             <pubDate>Tue, 28 Jun 2016 16:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boycott, Divestment and Sanctions - Wikipedia, the free encyclopedia]]></title>
-            <description><![CDATA[<article><h1>Boycott, Divestment and Sanctions - Wikipedia, the free encyclopedia</h1><p>The campaign is organised and coordinated by the Palestinian BDS National Committee. The campaign was started on 9 July 2005 by over 170 Palestinian non-governmental organizations in support of the Palestinian cause for boycott, divestment and international sanctions against Israel.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/25db510b7a7f07fac3f92f8a16606305/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F30%2FBoycott_Israel-poster.jpg%2F275px-Boycott_Israel-poster.jpg"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions</link>
-            <guid isPermaLink="false">ba3e9989-928c-4e41-8843-46fbe7901937</guid>
-            <pubDate>Tue, 28 Jun 2016 16:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
