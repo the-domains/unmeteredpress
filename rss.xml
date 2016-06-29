@@ -14,8 +14,15 @@
             <pubDate>Tue, 28 Jun 2016 16:50:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UnmeteredCable by UNMETERED.IO]]></title>
+            <description><![CDATA[<article><h1>UnmeteredCable by UNMETERED.IO</h1><p>UNMETERED.IO ClearingHouse WebProperty - cable</p><img src="http://media.unmetered.io/content/characters/wheely.png"></article>]]></description>
+            <link>http://www.unmeteredcable.com</link>
+            <guid isPermaLink="false">d800571a-8b79-4d8e-9513-4621c408f71f</guid>
+            <pubDate>Wed, 29 Jun 2016 03:28:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UnmeteredDSL by UNMETERED.IO]]></title>
-            <description><![CDATA[<article><h1>UnmeteredDSL by UNMETERED.IO</h1><p>Between your home and the local telephone exchange, DSL ensures your neighbour doesn't hinder you.</p><img src="http://media.unmetered.io/content/characters/rocketpack.png"></article>]]></description>
+            <description><![CDATA[<article><h1>UnmeteredDSL by UNMETERED.IO</h1><p>Between your home and the local telephone exchange, DSL ensures your neighbour doesn't hinder you.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5a8b372ee10fbb25155f1646e18b755/noop.png?input=http%3A%2F%2Fmedia.unmetered.io%2Fcontent%2Fcharacters%2Frocketpack.png"></article>]]></description>
             <link>http://www.unmetereddsl.com</link>
             <guid isPermaLink="false">83903e5f-da76-40c5-babb-a4655f711ee8</guid>
             <pubDate>Wed, 29 Jun 2016 03:28:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions</link>
             <guid isPermaLink="false">ba3e9989-928c-4e41-8843-46fbe7901937</guid>
             <pubDate>Tue, 28 Jun 2016 16:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is BDS? - Boycott, Divestment and Sanctions]]></title>
-            <description><![CDATA[<article><h1>What is BDS? - Boycott, Divestment and Sanctions</h1><p>JVP endorses the call from Palestinian civil society for Boycott, Divestment, and Sanctions (BDS) as part of our work for freedom, justice and equality.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/116bc22115c6c4ef097cca38df36a06b/croprotate.jpg?cropheight=545&cropwidth=1920&degrees=0&input=https%3A%2F%2Fjewishvoiceforpeace.org%2Fwp-content%2Fuploads%2F2015%2F05%2Ftitle-another-jew-supporting-divestment.jpg&x=0&y=0"></article>]]></description>
-            <link>https://jewishvoiceforpeace.org/boycott-divestment-and-sanctions/jvp-supports-the-bds-movement/</link>
-            <guid isPermaLink="false">42214ce0-3d19-403e-b4d2-5f6954a41116</guid>
-            <pubDate>Tue, 28 Jun 2016 16:55:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
