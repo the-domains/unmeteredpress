@@ -4,7 +4,7 @@
         <description><![CDATA[UNMETERED.Press]]></description>
         <link>https://thegrid.ai/unmeteredpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 17:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 03:28:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unmeteredpress/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DuckDuckGo]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.duckduckgo.com</link>
             <guid isPermaLink="false">ca382f24-8638-4bed-99f3-29fbfac5bf5c</guid>
             <pubDate>Tue, 28 Jun 2016 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UnmeteredDSL by UNMETERED.IO]]></title>
+            <description><![CDATA[<article><h1>UnmeteredDSL by UNMETERED.IO</h1><p>Between your home and the local telephone exchange, DSL ensures your neighbour doesn't hinder you.</p><img src="http://media.unmetered.io/content/characters/rocketpack.png"></article>]]></description>
+            <link>http://www.unmetereddsl.com</link>
+            <guid isPermaLink="false">83903e5f-da76-40c5-babb-a4655f711ee8</guid>
+            <pubDate>Wed, 29 Jun 2016 03:28:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our TPP Jumbotron | OpenMedia]]></title>
@@ -68,13 +75,6 @@
             <link>https://jewishvoiceforpeace.org/boycott-divestment-and-sanctions/jvp-supports-the-bds-movement/</link>
             <guid isPermaLink="false">42214ce0-3d19-403e-b4d2-5f6954a41116</guid>
             <pubDate>Tue, 28 Jun 2016 16:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada]]></title>
-            <description><![CDATA[<article><h1>Canada</h1><p>As the TPP consultations make their way through the country, your OpenMedia team continues to work tirelessly to amplify your voices. Thanks to all of you who chipped in and made our second Jumbotron in Toronto possible!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b981a93df87707e551225328874cbf94/noop.jpg?input=https%3A%2F%2Fopenmedia.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffull-width_1x-xbig%2Fpublic%2Ffeatured_slide_images%2F3840x1240_v2.jpg%3Fitok%3DElZctM3T%26timestamp%3D1448299881"></article>]]></description>
-            <link>http://www.openmedia.ca</link>
-            <guid isPermaLink="false">f78395fd-c030-4e14-aed6-38fc4591a06f</guid>
-            <pubDate>Tue, 28 Jun 2016 16:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
