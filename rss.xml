@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to the AI News Feed]]></description>
         <link>https://thegrid.ai/unmeteredpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 02:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 02:14:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unmeteredpress/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DuckDuckGo]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.duckduckgo.com</link>
             <guid isPermaLink="false">ca382f24-8638-4bed-99f3-29fbfac5bf5c</guid>
             <pubDate>Tue, 28 Jun 2016 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Court overturns Ottawa's approval of Northern Gateway pipeline]]></title>
+            <description><![CDATA[<article><h1>Court overturns Ottawa's approval of Northern Gateway pipeline</h1><p>Enbridge Inc. and its oil industry partners have seen their faint hope for the Northern Gateway pipeline project dealt a major blow Thursday as the Federal Court of Appeal quashed the permit issued by the federal cabinet two years ago.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b950131f028ce936278b8627739416df/noop.jpg?input=http%3A%2F%2Fstatic.theglobeandmail.ca%2Fcdc%2Fnews%2Fbritish-columbia%2Farticle29714891.ece%2FALTERNATES%2Fw620%2Fnorthern-gateway21nw1.JPG"></article>]]></description>
+            <link>http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/federal-court-overturns-ottawas-approval-of-northern-gateway-pipeline/article30703563/</link>
+            <guid isPermaLink="false">1f6c2cf3-2071-4aa6-b75f-357cdfa74fb2</guid>
+            <pubDate>Sat, 02 Jul 2016 02:14:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canadian ISP - Top 30 ISPs for the past 30 days - Detail views and Clickthroughs]]></title>
@@ -68,13 +75,6 @@
             <link>http://imgur.com/MWtxu2g</link>
             <guid isPermaLink="false">3a104e47-c329-43c7-9ca8-92e0a7341437</guid>
             <pubDate>Wed, 29 Jun 2016 03:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coverage Area / Communities by UNMETERED.IO]]></title>
-            <description><![CDATA[<article><h1>Coverage Area / Communities by UNMETERED.IO</h1><p>UNMETERED.IO : unwavering commitment to premium service quality!</p></article>]]></description>
-            <link>http://unmetered.online/communities</link>
-            <guid isPermaLink="false">e6f75646-4af4-4e96-8e92-6332b4e422cf</guid>
-            <pubDate>Wed, 29 Jun 2016 03:29:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
