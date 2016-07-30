@@ -1,4 +1,3 @@
-layout_spectrum: 0.7217465008143336
 typography_spectrum: 0.029988967115059495
 color:
   brandStrength: 0.8014412801712751
@@ -11,5 +10,7 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-name: UNMETERED.Press
+layout_spectrum: 0.7217465008143336
+name: UNMETERED.Press AI Blog
 title: Epic To-Do List
+description: 'Living Greater than Lifetimes : pick your challenge and fix it!'
